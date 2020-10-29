@@ -1,0 +1,13 @@
+C:\Projects\LocalLineInterview\ListMatch\bin\Debug\netcoreapp3.1\ListMatch.exe
+C:\Projects\LocalLineInterview\ListMatch\bin\Debug\netcoreapp3.1\ListMatch.deps.json
+C:\Projects\LocalLineInterview\ListMatch\bin\Debug\netcoreapp3.1\ListMatch.runtimeconfig.json
+C:\Projects\LocalLineInterview\ListMatch\bin\Debug\netcoreapp3.1\ListMatch.runtimeconfig.dev.json
+C:\Projects\LocalLineInterview\ListMatch\bin\Debug\netcoreapp3.1\ListMatch.dll
+C:\Projects\LocalLineInterview\ListMatch\bin\Debug\netcoreapp3.1\ListMatch.pdb
+C:\Projects\LocalLineInterview\ListMatch\obj\Debug\netcoreapp3.1\ListMatch.csprojAssemblyReference.cache
+C:\Projects\LocalLineInterview\ListMatch\obj\Debug\netcoreapp3.1\ListMatch.AssemblyInfoInputs.cache
+C:\Projects\LocalLineInterview\ListMatch\obj\Debug\netcoreapp3.1\ListMatch.AssemblyInfo.cs
+C:\Projects\LocalLineInterview\ListMatch\obj\Debug\netcoreapp3.1\ListMatch.csproj.CoreCompileInputs.cache
+C:\Projects\LocalLineInterview\ListMatch\obj\Debug\netcoreapp3.1\ListMatch.dll
+C:\Projects\LocalLineInterview\ListMatch\obj\Debug\netcoreapp3.1\ListMatch.pdb
+C:\Projects\LocalLineInterview\ListMatch\obj\Debug\netcoreapp3.1\ListMatch.genruntimeconfig.cache

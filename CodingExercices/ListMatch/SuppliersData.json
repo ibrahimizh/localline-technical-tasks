@@ -1,0 +1,17 @@
+[
+{
+"supplier_id":1,
+"product_category_id":101,
+"products_count":5
+},
+{
+"supplier_id":2,
+"product_category_id":101,
+"products_count":3
+},
+{
+"supplier_id":3,
+"product_category_id":102,
+"products_count":5
+}
+]
